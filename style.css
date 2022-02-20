@@ -15,6 +15,7 @@ body {
 .container {
 	width: 1300px;
 	margin: 10 auto;
+	padding: 10px;
 }
 
 .main-header {
